@@ -1,0 +1,8 @@
+DOG
+CAMERA
+MONKEY
+
+1d
+
+30
+
